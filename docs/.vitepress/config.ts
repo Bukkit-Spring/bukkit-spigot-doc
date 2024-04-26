@@ -4,7 +4,7 @@ export default defineConfig({
     lang: 'zh-Hans',
     title: 'BukkitSpringDoc',
     description: 'Bukkit与Spring的融合',
-    base: '/repo/',
+    base: '/bukkit-spigot-doc/',
     sitemap: {
         hostname: 'https://example.com'
     },
