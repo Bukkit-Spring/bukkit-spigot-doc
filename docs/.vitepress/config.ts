@@ -47,6 +47,9 @@ export default defineConfig({
                 items: [
                     {text: '多数据源切换', link: '/doc/expand/database_select'},
                     {text: '获取 Bean 实例', link: '/doc/expand/get_bean'},
+                    {text: '全局锁', link: '/doc/expand/global_lock'},
+                    {text: 'MybatisPlus DSL', link: '/doc/expand/mybatis_plus_dsl'},
+                    {text: 'RabbitMQ 消息处理', link: '/doc/expand/rabbitmq'},
                 ]
             }
         ],
