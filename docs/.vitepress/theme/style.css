@@ -23,7 +23,7 @@ a[href="/bukkit-spigot-doc/doc/info/what_is_bukkit_spring.html"].VPButton {
     background: linear-gradient(55deg, #dce35b, #45b649) !important;
 }
 
-a[href="/bsdoc/doc/info/what_is_bukkit_spring.html"].VPButton:hover {
+a[href="/bukkit-spigot-doc/doc/info/what_is_bukkit_spring.html"].VPButton:hover {
     /* 在这里添加你想要的样式 */
     background: linear-gradient(55deg, #b8be49, #2f8d33) !important;
     transition: color 0.25s, border-color 0.25s, background-color 0.25s !important;
