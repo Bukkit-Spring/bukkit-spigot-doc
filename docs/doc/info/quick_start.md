@@ -210,3 +210,14 @@ spring:
 2. 执行 `mvn clean assembly:assembly` 打包
 
 3. 将打包出的 **Spring-1.0.0-RELEASE-jar-with-dependencies.jar** 作为开发依赖即可
+
+## 评论
+<br/>
+
+<comments/>
+
+<script setup>
+
+import Comments from '../../compose/Comments.vue'
+
+</script>

@@ -32,3 +32,14 @@ BukkitSpring 是一个 Bukkit 插件，融入了 SpringBoot ，使得你可以�
 还有更多! 剩下的就由你的团队 一起自定义吧。我们已经导入了常见的工具并封装。
 
 如果团队有特殊需求可以**自行导入并管理** *(出现兼容问题BukkitSpring并不负主要责任无义务指导)*。
+
+## 评论
+<br/>
+
+<comments/>
+
+<script setup>
+
+import Comments from '../../compose/Comments.vue'
+
+</script>

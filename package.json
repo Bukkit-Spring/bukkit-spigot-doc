@@ -16,6 +16,7 @@
     "vitepress": "latest"
   },
   "dependencies": {
+    "@giscus/vue": "^3.0.0",
     "ant-design-vue": "^4.1.2",
     "axios": "^1.6.8",
     "js-cookie": "^3.0.5",

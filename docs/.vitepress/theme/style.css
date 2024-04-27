@@ -18,7 +18,7 @@
 /*    background-color: rebeccapurple !important;*/
 /*}*/
 
-a[href="/bsdoc/doc/info/what_is_bukkit_spring.html"].VPButton {
+a[href="/bukkit-spigot-doc/doc/info/what_is_bukkit_spring.html"].VPButton {
     /* 在这里添加你想要的样式 */
     background: linear-gradient(55deg, #dce35b, #45b649) !important;
 }

@@ -30,10 +30,25 @@ export default defineConfig({
                 text: '简介',
                 collapsed: false,
                 items: [
-                    {text: '什么是BukkitSpring?', link: '/doc/info/what_is_bukkit_spring'},
+                    {text: '什么是 BukkitSpring?', link: '/doc/info/what_is_bukkit_spring'},
                     {text: '快速开始', link: '/doc/info/quick_start'},
                 ],
             },
+            {
+                text: '开发',
+                collapsed: false,
+                items: [
+                    {text: 'IOC 容器', link: '/doc/development/ioc'},
+                    {text: '设置 MybatisPlus', link: '/doc/development/mybatis_plus_first'},
+                ],
+            }, {
+                text: '拓展',
+                collapsed: false,
+                items: [
+                    {text: '多数据源切换', link: '/doc/expand/database_select'},
+                    {text: '获取 Bean 实例', link: '/doc/expand/get_bean'},
+                ]
+            }
         ],
         docFooter: {
             prev: '上一页',
